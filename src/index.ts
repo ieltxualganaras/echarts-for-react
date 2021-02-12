@@ -1,4 +1,4 @@
-import * as echarts from 'echarts';
+import * as echarts from 'echarts/core';
 import { EChartsReactProps, EChartsOption, EChartsInstance } from './types';
 import EChartsReactCore from './core';
 
