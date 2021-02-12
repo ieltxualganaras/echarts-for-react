@@ -70,9 +70,9 @@ temp
 .idea
 .cache
 demos/assets/screenshots
-/lib
-/esm
-/dist
+#/lib
+#/esm
+#/dist
 
 *.sw*
 *.un~
